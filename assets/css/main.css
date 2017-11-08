@@ -99,7 +99,7 @@ hr {
 .navbar {
 	text-transform: uppercase;
 	margin-bottom: 0px;
-  position: fixed;
+  /*position: fixed;*/
   width: 100%;
 }
 
